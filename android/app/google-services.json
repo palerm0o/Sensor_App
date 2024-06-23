@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "227566740096",
+    "firebase_url": "https://mata-da88e-default-rtdb.firebaseio.com",
+    "project_id": "mata-da88e",
+    "storage_bucket": "mata-da88e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227566740096:android:3fb6213c6bc9dfaf54bc65",
+        "android_client_info": {
+          "package_name": "com.example.untitled10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNlaOWFGN3c-hqvz3IxlSj-ufcPihaU8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
